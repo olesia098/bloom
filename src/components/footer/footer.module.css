@@ -1,0 +1,47 @@
+.footer {
+  height: 20vh;
+  display: flex;
+  margin-top: 50px;
+  margin-left: 32px;
+}
+
+.reting {
+  width: 180px;
+  height: 35px;
+  flex-shrink: 0;
+  border-radius: 16px;
+  background: #280f5b;
+  display: flex;
+  padding: 15px;
+}
+
+.ul li {
+  list-style-type: none;
+  margin-left: 165px;
+  margin-bottom: 13px;
+  font-weight: 400;
+  line-height: 16px;
+}
+
+.number {
+  display: flex;
+  margin-left: 16px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px; /* 100% */
+}
+
+.number img {
+  width: 96px;
+  height: 23px;
+  flex-shrink: 0;
+}
+
+.number2 {
+  display: flex;
+}
+
+#gogle {
+  width: 32px;
+  height: 32px;
+}
